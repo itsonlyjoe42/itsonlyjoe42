@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @itsonlyjoe42
 - 👀 I’m interested in Sudokus and Juggling
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 📫 How to reach me ...
